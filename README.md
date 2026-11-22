@@ -1,5 +1,5 @@
 # Premier League Analytics & Fantasy Squad Prediction
-
+![](image.png)
 An interactive football analytics project built with **Power BI, DAX, and Python**, combining Premier League reporting with a model that forecasts fantasy points and selects a squad for the next supplied gameweek.
 
 **Author — Parham Farjam**  
